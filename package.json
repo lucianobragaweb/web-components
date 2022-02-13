@@ -1,5 +1,5 @@
 {
-  "name": "web-components",
+  "name": "flb-web-components",
   "version": "1.0.0",
   "description": "Exemplo simples de Web Component como Pacote NPM",
   "main": "index.js",
