@@ -1,0 +1,20 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "Exemplo simples de Web Component como Pacote NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianobragaweb/web-components.git"
+  },
+  "keywords": [],
+  "author": "Luciano Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianobragaweb/web-components/issues"
+  },
+  "homepage": "https://github.com/lucianobragaweb/web-components#readme"
+}
